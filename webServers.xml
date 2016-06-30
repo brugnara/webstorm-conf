@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="90dd698f-7657-4103-8929-da1c2398e09c" name="1.72" url="http://192.168.1.72:8080">
+        <fileTransfer host="192.168.1.72" port="22" rootFolder="/root/www/smshelper/current" accessType="SFTP" password="dfc4dfcbdfc4dfc5" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
