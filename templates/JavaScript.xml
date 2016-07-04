@@ -34,7 +34,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="request" value="request(http.createServer(app.callback()))&#10;  .$METHOD$('/$PATH$')&#10;  .end(function(req, res) {&#10;     $END$&#10;  });" description="insert request for test" toReformat="true" toShortenFQNames="true">
+  <template name="request" value="request(http.createServer(app.callback()))&#10;  .$METHOD$('/$PATH$')&#10;  .end((err, res) =&gt; {&#10;     $END$&#10;  });" description="insert request for test" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD" expression="enum(&quot;get&quot;,&quot;post&quot;,&quot;put&quot;,&quot;delete&quot;)" defaultValue="get" alwaysStopAt="true" />
     <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
