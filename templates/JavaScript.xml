@@ -48,7 +48,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="while" value="let $VAR$ = 0;&#10;&#10;while ($VAR$ &lt; $OBJECT$) {&#10;  let item = $OBJECT$[$VAR$];&#10;  &#10;  $END$&#10;  $VAR$++;&#10;}" description="while loop" toReformat="false" toShortenFQNames="true">
+  <template name="while" value="let $VAR$ = 0;&#10;&#10;while ($VAR$ &lt; $OBJECT$.length) {&#10;  let item = $OBJECT$[$VAR$];&#10;  &#10;  $END$&#10;  $VAR$++;&#10;}" description="while loop" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OBJECT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
