@@ -1,21 +1,23 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="tag" type="HTML" />
       <mapping pattern="RackMultipart20130926-880-yqtc9t" type="Images" />
-      <mapping pattern="sms3" type="PLAIN_TEXT" />
-      <mapping pattern="server" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="replace_default" type="PLAIN_TEXT" />
+      <removed_mapping ext="tag" approved="true" type="JSP" />
       <mapping pattern="getCampaign" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="sms3" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="server" type="PLAIN_TEXT" />
+      <mapping pattern="replace_default" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
     </extensionMap>
   </component>
