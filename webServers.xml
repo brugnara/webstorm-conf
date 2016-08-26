@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="90dd698f-7657-4103-8929-da1c2398e09c" name="1.72" url="http://192.168.1.72:8080">
-        <fileTransfer host="192.168.1.72" port="22" rootFolder="/root/www/smshelper/current" accessType="SFTP" password="dfc4dfcbdfc4dfc5" username="root">
+        <fileTransfer host="192.168.1.72" port="22" rootFolder="/root/www/smshelper/current" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAoGcr83jxisSdEGpQETGizYQOEjXXo3TWMFpjGC8N5+nKw9fe5vCDcQSS7uuIiTZnupaPGIfAGVfmc+Oh2Y0FtHd/Y80Xg9C2cbd3NQfLxr6SMB0XwrY1/ae+9dTLdFMPyea2hcuFvP7mhjr4FMaBGmktujbK8pxfY58iphwmBsJpWcy4JjVSMj0EscNvs+/RG80IhaTjF8pyAVwkIF+m0yKJE8/cgxL6LKUS93LJ+xgN</data>
   </component>
 </application>
