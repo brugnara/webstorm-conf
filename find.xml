@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../app/api-v2/routes/ads/node_modules/validators - [apitools]'" />
     <option name="defaultScopeName" value="Directory '.../app/api-v2/routes/ads/node_modules/validators - [apitools]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../app/api-v2/routes/ads/node_modules/validators - [apitools]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
