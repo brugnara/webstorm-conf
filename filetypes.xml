@@ -24,6 +24,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
     </extensionMap>
   </component>
