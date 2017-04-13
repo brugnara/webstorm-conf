@@ -6,6 +6,7 @@
       <mapping ext="tag" type="HTML" />
       <mapping pattern="RackMultipart20130926-880-yqtc9t" type="Images" />
       <removed_mapping ext="tag" type="JSP" />
+      <mapping pattern="bootstrap" type="PLAIN_TEXT" />
       <mapping pattern="sms3" type="PLAIN_TEXT" />
       <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="f3claw" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping ext="preseed" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="packages" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="XHTML" />
