@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../app/node_modules/koa-no-cache - [apitools]'" />
-    <option name="defaultScopeName" value="Directory '.../app/node_modules/koa-no-cache - [apitools]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../app/node_modules/koa-no-cache - [apitools]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
