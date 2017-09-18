@@ -1,5 +1,16 @@
 <application>
   <component name="libraryTable">
+    <library name="love 10.2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/dev/love-IDEA-plugin/love_0102" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/dev/love-IDEA-plugin/love_0102" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="socket.io-1.0.6" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm8/extLibs/http_cdn.socket.io_socket.io-1.0.6.js" />
