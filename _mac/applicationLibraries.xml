@@ -1,11 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="love 10.2" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/dev/love-IDEA-plugin/love_0102" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/dev/love-IDEA-plugin/love_0102" />
       </CLASSES>
