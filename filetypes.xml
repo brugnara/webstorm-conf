@@ -11,12 +11,13 @@
       <mapping ext="php" type="PHP" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="sms3" type="PLAIN_TEXT" />
-      <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="eb" type="PLAIN_TEXT" />
       <mapping pattern="replace_default" type="PLAIN_TEXT" />
+      <mapping pattern="eb" type="PLAIN_TEXT" />
+      <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="getCampaign" type="PLAIN_TEXT" />
+      <mapping pattern="Docker2" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="packages" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
