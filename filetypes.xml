@@ -18,6 +18,7 @@
       <mapping pattern="server" type="PLAIN_TEXT" />
       <mapping pattern="getCampaign" type="PLAIN_TEXT" />
       <mapping pattern="Docker2" type="PLAIN_TEXT" />
+      <mapping pattern="QUERY_export_email_stranieri.js" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="packages" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
