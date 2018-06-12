@@ -5,5 +5,8 @@
       <template name="node router.js" reformat="true" live-template-enabled="true" />
       <template name="riot tag.tag" reformat="true" live-template-enabled="true" />
     </default_templates>
+    <internal_templates>
+      <template name="Bash Script.sh" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
   </component>
 </application>
